@@ -1,0 +1,5 @@
+<aura:application>
+<apex:page showHeader="false">
+    <apex:image url="https://developer.salesforce.com/files/salesforce-developer-network-logo.png"/>
+</apex:page>
+</aura:application>	
